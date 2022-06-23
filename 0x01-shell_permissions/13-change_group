@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chgrp holberton hello
-sudo chgrp holberton hello
+sudo chgrp school hello
