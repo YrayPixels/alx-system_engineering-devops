@@ -1,2 +1,3 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/School/).join
+# A regular expression that matches a particular pattern
+puts ARGV[0].scan(/hbt{2,5}n/).join
